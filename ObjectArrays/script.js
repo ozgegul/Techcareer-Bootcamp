@@ -1,27 +1,3 @@
-var user = {
-  name: "Çağatay",
-  surname: "Yıldız",
-  age: 18,
-};
-
-var users = [
-  {
-    name: "Çağatay",
-    surname: "Yıldız",
-    age: 18,
-  },
-  {
-    name: "Müge",
-    surname: "Çalışkan",
-    age: 22,
-  },
-  {
-    name: "Aykut",
-    surname: "Arslan",
-    age: 18,
-  },
-];
-
 var products = [
   {
     id: 4,
